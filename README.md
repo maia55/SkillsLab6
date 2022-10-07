@@ -6,6 +6,6 @@ based on their age. If the user is younger than 21, they are not allowed to drin
 It will print that their name and a statement based on the if else conditions. 
 
 # Group Members 
-Kaitlyn Shin - collaborators
-Jay Patel - collaborators
+Kaitlyn Shin - collaborators (1)
+Jay Patel - collaborators (2)
 Maia Harmon - creator of repository 
