@@ -1,4 +1,5 @@
 # License
+MIT License
 
 Copyright (c) Year Full name
 
