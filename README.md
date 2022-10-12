@@ -8,6 +8,11 @@ It will print that their name and a statement based on the if else conditions.
 
 # Code of Conduct 
 How to contribute to the project: 
+1. Open to collaborate 
+2. Free to edit/modify without restriction 
+3. Use welcoming an exlcusive language 
+4. Showing empathy to other community members
+
 
 # Installation 
 1. Clone the repo
@@ -19,7 +24,7 @@ git clone https://github.com/maia55/SkillsLab6.git
 3. Open folder and start to code!!!
 
 # License 
-JupyterLab uses a shared copyright model that enables all contributors to maintain the copyright on their contributions. All code is licensed under the terms of the revised (add link)
+JupyterLab uses a shared copyright model that enables all contributors to maintain the copyright on their contributions. All code is licensed under the terms of the revised https://github.com/maia55/SkillsLab6/blob/main/LICENSE.md
 
 # Group Members 
 Kaitlyn Shin - collaborator
