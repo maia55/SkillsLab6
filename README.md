@@ -13,6 +13,8 @@ How to contribute to the project:
 3. Use welcoming an exlcusive language 
 4. Showing empathy to other community members
 
+https://github.com/maia55/SkillsLab6/blob/main/CODE-OF-CONDUCT.md
+
 
 # Installation 
 1. Clone the repo
